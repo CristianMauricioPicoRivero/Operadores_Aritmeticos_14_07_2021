@@ -58,11 +58,11 @@ let resta = parseInt(N1) - parseInt(N2);
 console.log(`Resta`, resta);
 
 //Unario negativo
-console.log(`Unitario Negativo` -N1);
-console.log(`Unitario Negativo` -N2);
+console.log(`Unitario Negativo`, -N1);
+console.log(`Unitario Negativo`, -N2);
 //Unario positivo
-console.log(`Unitario Positivo` +N1);
-console.log(`Unitario Positivo` +N2);
+console.log(`Unitario Positivo`, +N1);
+console.log(`Unitario Positivo`, +N2);
 
 
 //CLASE
